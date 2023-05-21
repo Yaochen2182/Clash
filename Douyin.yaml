@@ -15,8 +15,10 @@ payload:
   - DOMAIN-SUFFIX,v27-cold.douyinvod.com
   - DOMAIN-SUFFIX,api-play.amemv.com
   - DOMAIN-SUFFIX,v3-dy-o.zjcdn.com
-  - DOMAIN-SUFFIX,v5-coldn.douyinvod.com  
+  - DOMAIN-SUFFIX,v5-coldn.douyinvod.com
+  - DOMAIN-SUFFIX,lf-dy-sourcecdn-tos.bytegecko.com
   - DOMAIN-KEYWORD,douyinvod.com
+  - DOMAIN-KEYWORD,bytegecko.com
   - IP-CIDR,103.155.16.177,no-resolve
   - IP-CIDR,107.155.25.122,no-resolve
   - IP-CIDR,139.177.246.206,no-resolve
