@@ -1,24 +1,15 @@
 payload:
   # > Douyin
-  - DOMAIN-SUFFIX,v3-litea.douyinvod.com
-  - DOMAIN-SUFFIX,v5-lite.douyinvod.com
-  - DOMAIN-SUFFIX,v6-litea.douyinvod.com
-  - DOMAIN-SUFFIX,v9-litea.douyinvod.com
-  - DOMAIN-SUFFIX,v26-litea.douyinvod.com
-  - DOMAIN-SUFFIX,v95-sh-cold.douyinvod.com
-  - DOMAIN-SUFFIX,v95-p-cold.douyinvod.com
-  - DOMAIN-SUFFIX,v95-hn-cold.douyinvod.com
-  - DOMAIN-SUFFIX,v3-cold.douyinvod.com
-  - DOMAIN-SUFFIX,v9-cold2.douyinvod.com
-  - DOMAIN-SUFFIX,v1-cold.douyinvod.com
-  - DOMAIN-SUFFIX,v26-cold.douyinvod.com
-  - DOMAIN-SUFFIX,v27-cold.douyinvod.com
-  - DOMAIN-SUFFIX,api-play.amemv.com
-  - DOMAIN-SUFFIX,v3-dy-o.zjcdn.com
-  - DOMAIN-SUFFIX,v5-coldn.douyinvod.com
-  - DOMAIN-SUFFIX,lf-dy-sourcecdn-tos.bytegecko.com
-  - DOMAIN-KEYWORD,douyinvod.com
-  - DOMAIN-KEYWORD,bytegecko.com
+  - DOMAIN-SUFFIX,zjcdn.com
+  - DOMAIN-SUFFIX,bytegecko.com
+  - DOMAIN-SUFFIX,amemv.com
+  - DOMAIN-SUFFIX,ixigua.com
+  - DOMAIN-SUFFIX,ixiguavideo.com
+  - DOMAIN-SUFFIX,pstatp.com
+  - DOMAIN-SUFFIX,snssdk.com
+  - DOMAIN-SUFFIX,toutiao.com
+  - DOMAIN-SUFFIX,douyinvod.com
+  - DOMAIN-SUFFIX,bytegecko.com
   - IP-CIDR,103.155.16.177,no-resolve
   - IP-CIDR,107.155.25.122,no-resolve
   - IP-CIDR,139.177.246.206,no-resolve
