@@ -18,6 +18,7 @@ payload:
   - DOMAIN-SUFFIX,pstatp.com
   - DOMAIN-SUFFIX,snssdk.com
   - DOMAIN-SUFFIX,toutiao.com
+  - DOMAIN-SUFFIX,volcsiriusbd.com
   - DOMAIN-SUFFIX,zijieapi.com
   - DOMAIN-SUFFIX,zjcdn.com
   - IP-CIDR,103.155.16.176,no-resolve
