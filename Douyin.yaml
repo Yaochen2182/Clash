@@ -12,5 +12,6 @@ payload:
   - DOMAIN-SUFFIX,bytegecko.com
   - DOMAIN-SUFFIX,douyinstatic.com
   - IP-CIDR,103.155.16.177,no-resolve
+  - IP-CIDR,107.155.25.121,no-resolve
   - IP-CIDR,107.155.25.122,no-resolve
   - IP-CIDR,139.177.246.206,no-resolve
