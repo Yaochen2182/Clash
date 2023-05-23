@@ -1,6 +1,5 @@
 payload:
   # > Douyin
-  - DOMAIN-SUFFIX,aliyun.com
   - DOMAIN-SUFFIX,amemv.com
   - DOMAIN-SUFFIX,bdurl.net
   - DOMAIN-SUFFIX,bytegecko.com
