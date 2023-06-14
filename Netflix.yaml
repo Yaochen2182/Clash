@@ -27,6 +27,7 @@ payload:
   - DOMAIN,e13252.dscg.akamaiedge.net
   - DOMAIN,h-netflix.online-metrix.net
   - DOMAIN,netflix.com.edgesuite.net
+  - DOMAIN,sessions.bugsnag.com
   - DOMAIN-SUFFIX,onetrust.com
   - DOMAIN-SUFFIX,cookielaw.org
 
