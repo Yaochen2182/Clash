@@ -5,7 +5,6 @@ payload:
   - DOMAIN-KEYWORD,dualstack.apiproxy-
   - DOMAIN-KEYWORD,netflixdnstest
   - DOMAIN,netflix.com.edgesuite.net
-  - DOMAIN-SUFFIX,fast.com
   - DOMAIN-SUFFIX,flxvpn.net
   - DOMAIN-SUFFIX,netflix.ca
   - DOMAIN-SUFFIX,netflix.com
