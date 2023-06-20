@@ -305,6 +305,7 @@ payload:
   - DOMAIN-SUFFIX,xboxservices.com
   - DOMAIN-SUFFIX,xboxstudios.com
   - DOMAIN-SUFFIX,xbx.lv
+  - SRC-PORT,3074
 
   - DOMAIN-SUFFIX,callersbane.com
   - DOMAIN-SUFFIX,minecraft.net
