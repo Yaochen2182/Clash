@@ -283,6 +283,7 @@ payload:
   - DOMAIN-SUFFIX,gamepass.com
   - DOMAIN-SUFFIX,msgamestudios.com
   - DOMAIN-SUFFIX,orithegame.com
+  - DOMAIN-SUFFIX,playfabapi.com
   - DOMAIN-SUFFIX,renovacionxboxlive.com
   - DOMAIN-SUFFIX,tellmewhygame.com
   - DOMAIN-SUFFIX,xbox.co
