@@ -2,3 +2,6 @@ payload:
   # > China 补充
   - DOMAIN-SUFFIX,nio.com
   - DOMAIN-SUFFIX,mi-img.com
+  - DOMAIN-SUFFIX,tuhu.org
+  - DOMAIN-SUFFIX,tuhu.com
+
