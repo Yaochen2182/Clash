@@ -21,9 +21,3 @@ payload:
   - DOMAIN-SUFFIX,volcsiriusbd.com
   - DOMAIN-SUFFIX,zijieapi.com
   - DOMAIN-SUFFIX,zjcdn.com
-  - IP-CIDR,103.155.16.176,no-resolve
-  - IP-CIDR,103.155.16.177,no-resolve
-  - IP-CIDR,107.155.25.121,no-resolve
-  - IP-CIDR,107.155.25.122,no-resolve
-  - IP-CIDR,138.113.151.178,no-resolve
-  - IP-CIDR,139.177.246.206,no-resolve
