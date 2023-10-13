@@ -1,9 +1,11 @@
 # > 言论反查
 DOMAIN-SUFFIX,aboutmgzn.com
+DOMAIN-SUFFIX,appgo.cn
 DOMAIN-SUFFIX,batman.plus
 DOMAIN-SUFFIX,cdnxhs.com
 DOMAIN-SUFFIX,hongyunlogistics.com
 DOMAIN-SUFFIX,iselect.red
+DOMAIN-SUFFIX,mob.com
 DOMAIN-SUFFIX,redelight.biz
 DOMAIN-SUFFIX,redelight.cn
 DOMAIN-SUFFIX,redelight.com.cn
@@ -11,6 +13,7 @@ DOMAIN-SUFFIX,redelight.info
 DOMAIN-SUFFIX,redelight.net
 DOMAIN-SUFFIX,redselect.cn
 DOMAIN-SUFFIX,redselect.com.cn
+DOMAIN-SUFFIX,sharesdk.cn
 DOMAIN-SUFFIX,xhscdn.com
 DOMAIN-SUFFIX,xhscdn.net
 DOMAIN-SUFFIX,xhsdns.com
