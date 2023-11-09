@@ -6,3 +6,6 @@ DOMAIN,speed.dler.io
 
 # > Speed Test by Cloudflare
 DOMAIN-SUFFIX,speed.cloudflare.com
+
+# > Speed Test by Huawei
+DOMAIN-SUFFIX,cc.cdnhwc5.com
