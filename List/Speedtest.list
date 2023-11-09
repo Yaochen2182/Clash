@@ -8,4 +8,5 @@ DOMAIN,speed.dler.io
 DOMAIN-SUFFIX,speed.cloudflare.com
 
 # > Speed Test by Huawei
+DOMAIN-SUFFIX,cc.cdnhwc1.com
 DOMAIN-SUFFIX,cc.cdnhwc5.com
