@@ -1,6 +1,9 @@
 # > ProxyAdd
 DOMAIN-SUFFIX,samsung.com
+DOMAIN-SUFFIX,samsungapps.com
 DOMAIN-SUFFIX,samsungcloudcn.com
+DOMAIN-SUFFIX,samsungiotcloud.com
 DOMAIN-SUFFIX,samsungknox.com
+DOMAIN-SUFFIX,samsungosp.com
 DOMAIN-SUFFIX,samsungvisioncloud.com
 DOMAIN-SUFFIX,tizen.org
