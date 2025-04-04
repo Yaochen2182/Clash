@@ -29,3 +29,5 @@ DOMAIN-SUFFIX,xboxplayanywhere.com
 DOMAIN-SUFFIX,xboxservices.com
 DOMAIN-SUFFIX,xboxstudios.com
 DOMAIN-SUFFIX,xbx.lv
+SRC-PORT,3074,DIRECT,UDP
+DST-PORT,3074,DIRECT,UDP
