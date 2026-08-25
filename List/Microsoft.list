@@ -608,4 +608,5 @@ DOMAIN-SUFFIX,mwf-service.akamaized.net
 DOMAIN-SUFFIX,officecdn-microsoft-com.akamaized.net
 DOMAIN-SUFFIX,statics-marketingsites-eus-ms-com.akamaized.net
 DOMAIN-SUFFIX,statics-marketingsites-wcus-ms-com.akamaized.net
-
+# NEL 错误上报 (Edge/Windows telemetry)
+DOMAIN-SUFFIX,nelreports.net
