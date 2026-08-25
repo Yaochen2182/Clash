@@ -1,0 +1,12 @@
+# > DnsProxy — OpenClash fallback DoH/DoT (CF + AdGuard)
+# Keep foreign DNS on 🚀 节点选择 under respect-rules (avoid MATCH/漏网之鱼)
+
+DOMAIN,one.one.one.one
+DOMAIN,dns.cloudflare.com
+DOMAIN-SUFFIX,cloudflare-dns.com
+DOMAIN,dns.adguard-dns.com
+DOMAIN-SUFFIX,adguard-dns.com
+IP-CIDR,1.1.1.1/32,no-resolve
+IP-CIDR,1.0.0.1/32,no-resolve
+IP-CIDR,94.140.14.14/32,no-resolve
+IP-CIDR,94.140.15.15/32,no-resolve
