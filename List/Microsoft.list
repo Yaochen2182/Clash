@@ -511,6 +511,7 @@ DOMAIN-SUFFIX,msturing.org
 DOMAIN-SUFFIX,msudalosti.com
 DOMAIN-SUFFIX,msvevent.com
 DOMAIN-SUFFIX,mymicrosoft.com
+DOMAIN-SUFFIX,nelreports.net
 DOMAIN-SUFFIX,nextechafrica.net
 DOMAIN-SUFFIX,nxta.org
 DOMAIN-SUFFIX,oaspapps.com
@@ -608,5 +609,3 @@ DOMAIN-SUFFIX,mwf-service.akamaized.net
 DOMAIN-SUFFIX,officecdn-microsoft-com.akamaized.net
 DOMAIN-SUFFIX,statics-marketingsites-eus-ms-com.akamaized.net
 DOMAIN-SUFFIX,statics-marketingsites-wcus-ms-com.akamaized.net
-# NEL 错误上报 (Edge/Windows telemetry)
-DOMAIN-SUFFIX,nelreports.net
