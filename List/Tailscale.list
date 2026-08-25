@@ -1,0 +1,11 @@
+# > Tailscale — DERP/control/STUN must DIRECT (not MATCH/漏网)
+# Router/host: tailscaled, derp*.tailscale.com, *.ts.net
+
+PROCESS-NAME,tailscaled
+PROCESS-NAME,Tailscale
+PROCESS-NAME,tailscale
+
+DOMAIN-SUFFIX,tailscale.com
+DOMAIN-SUFFIX,tailscale.io
+DOMAIN-SUFFIX,ts.net
+DOMAIN-KEYWORD,derp
