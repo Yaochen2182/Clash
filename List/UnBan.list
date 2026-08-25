@@ -56,3 +56,6 @@ DOMAIN-SUFFIX,DSmyNAS.org
 DOMAIN-SUFFIX,FamilyDS.com
 DOMAIN-SUFFIX,FamilyDS.net
 DOMAIN-SUFFIX,FamilyDS.org
+
+# Netflix（BanEasyPrivacy 会误伤 App 日志域名，须在广告规则前放行）
+DOMAIN-SUFFIX,logs.netflix.com
