@@ -8,3 +8,4 @@ PROCESS-NAME,tailscale
 DOMAIN-SUFFIX,tailscale.com
 DOMAIN-SUFFIX,tailscale.io
 DOMAIN-SUFFIX,ts.net
+IP-CIDR,192.73.252.134/32,no-resolve
