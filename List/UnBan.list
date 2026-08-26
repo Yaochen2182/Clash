@@ -1,5 +1,11 @@
 # Unbreak 白名单 不应该被广告链接的网站
 
+# Cloudflare Tunnel / home desk
+DOMAIN-SUFFIX,argotunnel.com
+DOMAIN-SUFFIX,cfargotunnel.com
+DOMAIN-SUFFIX,cftunnel.com
+DOMAIN-SUFFIX,oxygenlake.cn
+
 # Epicgames
 DOMAIN-SUFFIX,ol.epicgames.com
 
