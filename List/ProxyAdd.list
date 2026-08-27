@@ -9,6 +9,8 @@ DOMAIN-SUFFIX,cursor.sh
 DOMAIN-SUFFIX,dash.cloudflare.com
 DOMAIN-SUFFIX,durable.co
 DOMAIN-SUFFIX,dynatrace.com
+DOMAIN-SUFFIX,github.com
+DOMAIN-SUFFIX,githubusercontent.com
 DOMAIN-SUFFIX,heygen.com
 DOMAIN-SUFFIX,ip.sb
 DOMAIN-SUFFIX,metaglide.org
