@@ -4,6 +4,7 @@ DOMAIN-SUFFIX,asailor.org
 DOMAIN-SUFFIX,autodesk.com
 DOMAIN-SUFFIX,autodesk.io
 DOMAIN-SUFFIX,autodesk.net
+DOMAIN-SUFFIX,capterra.com
 DOMAIN-SUFFIX,cdn.akaere.online
 DOMAIN-SUFFIX,cloudflare.dev
 DOMAIN-SUFFIX,crisp.chat
@@ -27,8 +28,10 @@ DOMAIN-SUFFIX,github.com
 DOMAIN-SUFFIX,githubusercontent.com
 DOMAIN-SUFFIX,heygen.com
 DOMAIN-SUFFIX,ip.sb
+DOMAIN-SUFFIX,launchdarkly.com
 DOMAIN-SUFFIX,metaglide.org
 DOMAIN-SUFFIX,musixmatch.com
+DOMAIN-SUFFIX,nel.cloudflare.com
 DOMAIN-SUFFIX,nxonearth.com
 DOMAIN-SUFFIX,pendo.io
 DOMAIN-SUFFIX,samsung.com
@@ -38,7 +41,9 @@ DOMAIN-SUFFIX,samsungiotcloud.com
 DOMAIN-SUFFIX,samsungknox.com
 DOMAIN-SUFFIX,samsungosp.com
 DOMAIN-SUFFIX,samsungvisioncloud.com
+DOMAIN-SUFFIX,speedcurve.com
 DOMAIN-SUFFIX,stabledifffusion.com
 DOMAIN-SUFFIX,stripecdn.com
 DOMAIN-SUFFIX,tizen.org
+DOMAIN-SUFFIX,upsellit.com
 DOMAIN-SUFFIX,x.com
