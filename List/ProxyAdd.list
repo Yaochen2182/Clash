@@ -1,11 +1,19 @@
 # > ProxyAdd
-DOMAIN-SUFFIX,cursor.com
+DOMAIN-SUFFIX,asailor.org
+DOMAIN-SUFFIX,autodesk.com
+DOMAIN-SUFFIX,autodesk.io
+DOMAIN-SUFFIX,cloudflare.dev
 DOMAIN-SUFFIX,cursor-cdn.com
+DOMAIN-SUFFIX,cursor.com
 DOMAIN-SUFFIX,cursor.sh
+DOMAIN-SUFFIX,dash.cloudflare.com
 DOMAIN-SUFFIX,durable.co
+DOMAIN-SUFFIX,dynatrace.com
 DOMAIN-SUFFIX,heygen.com
 DOMAIN-SUFFIX,ip.sb
+DOMAIN-SUFFIX,metaglide.org
 DOMAIN-SUFFIX,musixmatch.com
+DOMAIN-SUFFIX,pendo.io
 DOMAIN-SUFFIX,samsung.com
 DOMAIN-SUFFIX,samsungapps.com
 DOMAIN-SUFFIX,samsungcloudcn.com
