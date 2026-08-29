@@ -4,10 +4,12 @@ DOMAIN-SUFFIX,aboutmgzn.com
 DOMAIN-SUFFIX,alibaba-inc.com
 DOMAIN-SUFFIX,amemv.com
 DOMAIN-SUFFIX,appgo.cn
+DOMAIN-SUFFIX,avlyun.com
 DOMAIN-SUFFIX,batman.plus
 DOMAIN-SUFFIX,bdurl.net
 DOMAIN-SUFFIX,bytegecko.com
 DOMAIN-SUFFIX,cdnxhs.com
+DOMAIN-SUFFIX,cl2009.com
 DOMAIN-SUFFIX,cmbimg.com
 DOMAIN-SUFFIX,ctobsnssdk.com
 DOMAIN-SUFFIX,dbankcloud.com
@@ -25,6 +27,7 @@ DOMAIN-SUFFIX,galaxyappstore.com
 DOMAIN-SUFFIX,ghproxy.monkeyray.net
 DOMAIN-SUFFIX,goofish.com
 DOMAIN-SUFFIX,hongyunlogistics.com
+DOMAIN-SUFFIX,hshh.org
 DOMAIN-SUFFIX,icpapi.com
 DOMAIN-SUFFIX,idouyinvod.com
 DOMAIN-SUFFIX,ihezu.com
@@ -60,6 +63,7 @@ DOMAIN-SUFFIX,niostg.com
 DOMAIN,ocsp.digicert.com
 DOMAIN-SUFFIX,pangolin-sdk-toutiao.com
 DOMAIN-SUFFIX,pglstatp-toutiao.com
+DOMAIN-SUFFIX,pool.ntp.org
 DOMAIN-SUFFIX,pstatp.com
 DOMAIN-SUFFIX,qiezibenpao.com
 DOMAIN-SUFFIX,redelight.biz
@@ -67,12 +71,15 @@ DOMAIN-SUFFIX,redelight.cn
 DOMAIN-SUFFIX,redelight.com.cn
 DOMAIN-SUFFIX,redelight.info
 DOMAIN-SUFFIX,redelight.net
+DOMAIN-SUFFIX,rednote.com
 DOMAIN-SUFFIX,redselect.cn
 DOMAIN-SUFFIX,redselect.com.cn
+DOMAIN-SUFFIX,rnote.com
 DOMAIN-SUFFIX,servicewechat.com
 DOMAIN-SUFFIX,sharesdk.cn
 DOMAIN-SUFFIX,smartmideazy.com
 DOMAIN-SUFFIX,snssdk.com
+DOMAIN-SUFFIX,sovcloud-identity.fr
 DOMAIN-SUFFIX,tianwenca.com
 DOMAIN,token.safebrowsing.apple
 DOMAIN-SUFFIX,toutiao.com
@@ -84,6 +91,7 @@ DOMAIN-SUFFIX,volcsiriusbd.com
 DOMAIN-SUFFIX,weixinbridge.com
 DOMAIN-SUFFIX,woozooo.com
 DOMAIN-SUFFIX,wxgateway.com
+DOMAIN-SUFFIX,xfinfr.com
 DOMAIN-SUFFIX,xhscdn.com
 DOMAIN-SUFFIX,xhscdn.net
 DOMAIN-SUFFIX,xhsdns.com
@@ -113,4 +121,12 @@ DOMAIN-SUFFIX,zhuanstatic.com
 DOMAIN-SUFFIX,zhuanzhuan.com
 DOMAIN-SUFFIX,zijieapi.com
 DOMAIN-SUFFIX,zjcdn.com
+DOMAIN-SUFFIX,zuimeitianqi.com
+IP-CIDR,43.129.2.97/32,no-resolve
+IP-CIDR,43.129.255.206/32,no-resolve
+IP-CIDR,43.135.106.106/32,no-resolve
+IP-CIDR,43.160.156.23/32,no-resolve
+IP-CIDR,43.160.156.172/32,no-resolve
+IP-CIDR,47.246.103.10/32,no-resolve
 IP-CIDR,193.182.111.143/32,no-resolve
+IP-CIDR,216.239.35.4/32,no-resolve
