@@ -1,9 +1,12 @@
 # > ProxyAdd
 DOMAIN-SUFFIX,api.wcc.best
+DOMAIN-SUFFIX,app-analytics-services.com
+DOMAIN-SUFFIX,apple-relay.cloudflare.com
 DOMAIN-SUFFIX,asailor.org
 DOMAIN-SUFFIX,autodesk.com
 DOMAIN-SUFFIX,autodesk.io
 DOMAIN-SUFFIX,autodesk.net
+DOMAIN-SUFFIX,bugsnag.com
 DOMAIN-SUFFIX,capterra.com
 DOMAIN-SUFFIX,cdn.akaere.online
 DOMAIN-SUFFIX,cloudflare.dev
@@ -12,10 +15,12 @@ DOMAIN-SUFFIX,ctfassets.net
 DOMAIN-SUFFIX,cursor-cdn.com
 DOMAIN-SUFFIX,cursor.com
 DOMAIN-SUFFIX,cursor.sh
+DOMAIN-SUFFIX,cursorapi.com
 DOMAIN-SUFFIX,dash.cloudflare.com
 DOMAIN-SUFFIX,down.mxw.xx.kg
 DOMAIN-SUFFIX,durable.co
 DOMAIN-SUFFIX,dynatrace.com
+DOMAIN-SUFFIX,epson.biz
 DOMAIN-SUFFIX,fastly-edge.com
 DOMAIN-SUFFIX,gh-proxy.com
 DOMAIN-SUFFIX,gh.idayer.com
@@ -33,6 +38,9 @@ DOMAIN-SUFFIX,metaglide.org
 DOMAIN-SUFFIX,musixmatch.com
 DOMAIN-SUFFIX,nel.cloudflare.com
 DOMAIN-SUFFIX,nxonearth.com
+DOMAIN-SUFFIX,onetrust.com
+DOMAIN-SUFFIX,onetrust.io
+DOMAIN-SUFFIX,pat-issuer.cloudflare.com
 DOMAIN-SUFFIX,pendo.io
 DOMAIN-SUFFIX,samsung.com
 DOMAIN-SUFFIX,samsungapps.com
@@ -46,4 +54,5 @@ DOMAIN-SUFFIX,stabledifffusion.com
 DOMAIN-SUFFIX,stripecdn.com
 DOMAIN-SUFFIX,tizen.org
 DOMAIN-SUFFIX,upsellit.com
+DOMAIN-SUFFIX,weather-in-calendar.com
 DOMAIN-SUFFIX,x.com

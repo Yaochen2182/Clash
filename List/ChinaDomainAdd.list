@@ -17,6 +17,7 @@ DOMAIN-SUFFIX,deepseek.com
 DOMAIN-SUFFIX,doubao.com
 DOMAIN-SUFFIX,douyinstatic.com
 DOMAIN-SUFFIX,douyinvod.com
+DOMAIN-SUFFIX,duole.com
 DOMAIN-SUFFIX,ecombdapi.com
 DOMAIN-SUFFIX,elemecdn.com
 DOMAIN-SUFFIX,gaccode.com
@@ -41,6 +42,7 @@ DOMAIN-SUFFIX,mijia.tech
 DOMAIN-SUFFIX,minimaxi.com
 DOMAIN-SUFFIX,mob.com
 DOMAIN-SUFFIX,mrs.1ms.run
+DOMAIN-SUFFIX,mtmt.tech
 DOMAIN-SUFFIX,mynextev.net
 DOMAIN-SUFFIX,nev-test.com
 DOMAIN-SUFFIX,nevext.com
@@ -55,6 +57,7 @@ DOMAIN-SUFFIX,niohome.com
 DOMAIN-SUFFIX,nioint.com
 DOMAIN-SUFFIX,niopartner.com
 DOMAIN-SUFFIX,niostg.com
+DOMAIN,ocsp.digicert.com
 DOMAIN-SUFFIX,pangolin-sdk-toutiao.com
 DOMAIN-SUFFIX,pglstatp-toutiao.com
 DOMAIN-SUFFIX,pstatp.com
@@ -66,10 +69,12 @@ DOMAIN-SUFFIX,redelight.info
 DOMAIN-SUFFIX,redelight.net
 DOMAIN-SUFFIX,redselect.cn
 DOMAIN-SUFFIX,redselect.com.cn
+DOMAIN-SUFFIX,servicewechat.com
 DOMAIN-SUFFIX,sharesdk.cn
 DOMAIN-SUFFIX,smartmideazy.com
 DOMAIN-SUFFIX,snssdk.com
 DOMAIN-SUFFIX,tianwenca.com
+DOMAIN,token.safebrowsing.apple
 DOMAIN-SUFFIX,toutiao.com
 DOMAIN-SUFFIX,tuhu.com
 DOMAIN-SUFFIX,tuhu.org
@@ -78,6 +83,7 @@ DOMAIN-SUFFIX,volces.com
 DOMAIN-SUFFIX,volcsiriusbd.com
 DOMAIN-SUFFIX,weixinbridge.com
 DOMAIN-SUFFIX,woozooo.com
+DOMAIN-SUFFIX,wxgateway.com
 DOMAIN-SUFFIX,xhscdn.com
 DOMAIN-SUFFIX,xhscdn.net
 DOMAIN-SUFFIX,xhsdns.com
@@ -107,3 +113,4 @@ DOMAIN-SUFFIX,zhuanstatic.com
 DOMAIN-SUFFIX,zhuanzhuan.com
 DOMAIN-SUFFIX,zijieapi.com
 DOMAIN-SUFFIX,zjcdn.com
+IP-CIDR,193.182.111.143/32,no-resolve
