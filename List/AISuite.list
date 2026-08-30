@@ -18,6 +18,9 @@ DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,claudeusercontent.com
 
+# > Cohere
+DOMAIN-SUFFIX,cohere.com
+
 # > Cloudflare AI Gateway
 DOMAIN,gateway.ai.cloudflare.com
 
@@ -60,12 +63,21 @@ DOMAIN-SUFFIX,notebooklm.google.com
 # > Groq
 DOMAIN-SUFFIX,groq.com
 
+# > Hugging Face
+DOMAIN-SUFFIX,huggingface.co
+
 # > Jasper
 DOMAIN-SUFFIX,clipdrop.co
 DOMAIN-SUFFIX,jasper.ai
 
 # > Meta AI
 DOMAIN-SUFFIX,meta.ai
+
+# > Midjourney
+DOMAIN-SUFFIX,midjourney.com
+
+# > Mistral
+DOMAIN-SUFFIX,mistral.ai
 
 # > OpenArt
 DOMAIN-SUFFIX,openart.ai
@@ -84,3 +96,6 @@ DOMAIN,guzzoni.smoot.apple.com
 # > Sora
 DOMAIN-SUFFIX,sora.com
 DOMAIN,sora-cdn.oaistatic.com
+
+# > Stability AI
+DOMAIN-SUFFIX,stability.ai
