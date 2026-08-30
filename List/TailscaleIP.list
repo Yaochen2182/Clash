@@ -1,0 +1,4 @@
+# > TailscaleIP — DERP relay（从 Tailscale 拆分）
+
+# derp2e.tailscale.com
+IP-CIDR,192.73.252.134/32,no-resolve

@@ -1,0 +1,7 @@
+# > Cloudflare（代理补充）
+DOMAIN-SUFFIX,apple-relay.cloudflare.com
+DOMAIN-SUFFIX,cloudflare.dev
+DOMAIN-SUFFIX,cloudflareinsights.com
+DOMAIN-SUFFIX,dash.cloudflare.com
+DOMAIN-SUFFIX,nel.cloudflare.com
+DOMAIN-SUFFIX,pat-issuer.cloudflare.com

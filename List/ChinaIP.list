@@ -1,0 +1,17 @@
+# > ChinaIP — 直连国内 IP 补充（从 ChinaDomainAdd 拆分）
+
+# Tencent SG
+IP-CIDR,43.129.2.97/32,no-resolve
+IP-CIDR,43.129.255.206/32,no-resolve
+IP-CIDR,43.135.106.106/32,no-resolve
+IP-CIDR,43.160.156.23/32,no-resolve
+IP-CIDR,43.160.156.172/32,no-resolve
+
+# Alibaba
+IP-CIDR,47.246.103.10/32,no-resolve
+
+# Google time / NTP
+IP-CIDR,216.239.35.4/32,no-resolve
+
+# Misc
+IP-CIDR,193.182.111.143/32,no-resolve
