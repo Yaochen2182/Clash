@@ -1,0 +1,5 @@
+# > Wi-FiCallingIP — T-Mobile 运营商 IP（从 Wi-FiCalling 拆分）
+
+IP-CIDR,66.94.0.0/19,no-resolve
+IP-CIDR,206.29.177.36/32,no-resolve
+IP-CIDR,208.54.0.0/16,no-resolve

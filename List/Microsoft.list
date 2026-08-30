@@ -610,9 +610,3 @@ DOMAIN-SUFFIX,mwf-service.akamaized.net
 DOMAIN-SUFFIX,officecdn-microsoft-com.akamaized.net
 DOMAIN-SUFFIX,statics-marketingsites-eus-ms-com.akamaized.net
 DOMAIN-SUFFIX,statics-marketingsites-wcus-ms-com.akamaized.net
-IP-CIDR,40.99.10.34/32,no-resolve
-IP-CIDR,40.99.10.114/32,no-resolve
-IP-CIDR,40.104.20.2/32,no-resolve
-IP-CIDR,40.104.72.18/32,no-resolve
-IP-CIDR,52.98.43.130/32,no-resolve
-IP-CIDR,52.98.189.242/32,no-resolve
