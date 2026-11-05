@@ -1,2 +1,7 @@
 # > Disney(UNL)
 DOMAIN-SUFFIX,media.dssott.com
+DOMAIN-SUFFIX,dssott.com
+DOMAIN-SUFFIX,dss-apac.map.fastly.net
+DOMAIN-SUFFIX,dss.map.fastly.net
+DOMAIN-SUFFIX,dscw80.akamai.net
+DOMAIN-KEYWORD,dssott
