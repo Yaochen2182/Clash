@@ -35,6 +35,7 @@ List/                   # 自定义规则文件（全部扁平存放）
 │   └── DisneyVideo.list
 └── service/
     ├── AISuite.list
+    ├── AppleAI.list          # Apple Intelligence / Siri / PCC
     ├── Microsoft.list + MicrosoftIP.list
     ├── Xbox.list
     ├── Speedtest.list
