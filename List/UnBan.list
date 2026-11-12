@@ -19,6 +19,11 @@ DOMAIN-SUFFIX,dizhensubao.getui.com
 # Mozilla
 DOMAIN-SUFFIX,tracking-protection.cdn.mozilla.net
 
+# NTP (ntpd connected to these pool IPs directly)
+IP-CIDR,5.79.108.34/32,no-resolve
+IP-CIDR,84.16.67.12/32,no-resolve
+IP-CIDR,95.111.202.5/32,no-resolve
+
 # Origin
 DOMAIN,origin-a.akamaihd.net
 

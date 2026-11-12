@@ -2,6 +2,7 @@
 # NOTE: apple-relay.cloudflare.com moved to AppleAI.list for dedicated Siri/PCC routing
 DOMAIN-SUFFIX,cloudflare.dev
 DOMAIN-SUFFIX,cloudflareinsights.com
+DOMAIN,cp.cloudflare.com
 DOMAIN-SUFFIX,dash.cloudflare.com
 DOMAIN-SUFFIX,nel.cloudflare.com
 DOMAIN-SUFFIX,pat-issuer.cloudflare.com

@@ -3,6 +3,7 @@ DOMAIN-SUFFIX,api.wcc.best
 DOMAIN-SUFFIX,apimart.ai
 DOMAIN-SUFFIX,asailor.org
 DOMAIN-SUFFIX,cdn.akaere.online
+DOMAIN-SUFFIX,cleanmymac.com
 DOMAIN-SUFFIX,crisp.chat
 DOMAIN-SUFFIX,ctfassets.net
 DOMAIN-SUFFIX,durable.co
@@ -11,10 +12,12 @@ DOMAIN-SUFFIX,fastly-edge.com
 DOMAIN-SUFFIX,go.link
 DOMAIN-SUFFIX,heygen.com
 DOMAIN-SUFFIX,ip.sb
+DOMAIN-SUFFIX,mcafee.com
 DOMAIN-SUFFIX,metaglide.org
 DOMAIN-SUFFIX,musixmatch.com
 DOMAIN-SUFFIX,npmjs.org
 DOMAIN-SUFFIX,nxonearth.com
+DOMAIN-SUFFIX,on.aws
 DOMAIN-SUFFIX,replicate.com
 DOMAIN-SUFFIX,spacex.com
 DOMAIN-SUFFIX,stabledifffusion.com
