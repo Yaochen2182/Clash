@@ -7,6 +7,7 @@
 # Apple.list and CloudflareProxy.list to ensure precedence.
 
 # Siri and dictation (TCP 443)
+DOMAIN,api-siri-prod.apple.com
 DOMAIN,guzzoni.apple.com
 
 # Search services: Siri, Spotlight, Lookup, Safari, News, Messages, Music (TCP 443)
@@ -16,24 +17,18 @@ DOMAIN-SUFFIX,smoot.apple.com
 DOMAIN,apple-relay.apple.com
 
 # Private Cloud Compute (PCC) relays (TCP/UDP 443)
-DOMAIN,apple-relay.cloudflare.com
-DOMAIN,apple-relay.fastly-edge.com
-DOMAIN,cp4.cloudflare.com
-
-# Extra PCC relays used by image upload and Visual Intelligence
-DOMAIN,api-siri-prod.apple.com
 DOMAIN,apple-carry-relay.cloudflare.com
 DOMAIN,apple-relay.akamaized.net
+DOMAIN,apple-relay.cloudflare.com
+DOMAIN,apple-relay.fastly-edge.com
 DOMAIN,apple-relay.mask.apple-dns.net
+DOMAIN,cp4.cloudflare.com
 
-# High-quality Clean Up uploads through the iCloud gateway. Phones resolve
-# gateway.icloud.com to this CNAME, which the generic Apple list would
-# otherwise send direct. Router Reality handshakes stay direct via a
-# source-scoped rule and never reach this list.
-DOMAIN,gateway.fe2.apple-dns.net
-DOMAIN,gateway.icloud.com
+# High-quality Clean Up image upload (iCloud gateway and its CNAME)
 DOMAIN,acsegateway.fe2.apple-dns.net
 DOMAIN-SUFFIX,acsegateway.icloud.com
+DOMAIN,gateway.fe2.apple-dns.net
+DOMAIN,gateway.icloud.com
 
 # Visual Intelligence / Siri camera (gspe*.ls.apple.com)
 DOMAIN-SUFFIX,ls.apple.com
