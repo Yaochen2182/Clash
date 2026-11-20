@@ -1,4 +1,5 @@
 # > ProxyMisc — 代理补充（杂项）
+DOMAIN-SUFFIX,airpowerhistory.com
 DOMAIN-SUFFIX,api.wcc.best
 DOMAIN-SUFFIX,apimart.ai
 DOMAIN-SUFFIX,asailor.org
@@ -20,8 +21,10 @@ DOMAIN-SUFFIX,nxonearth.com
 DOMAIN-SUFFIX,on.aws
 DOMAIN-SUFFIX,replicate.com
 DOMAIN-SUFFIX,spacex.com
+DOMAIN-SUFFIX,springer.com
 DOMAIN-SUFFIX,stabledifffusion.com
 DOMAIN-SUFFIX,stripecdn.com
+DOMAIN-SUFFIX,tdar.org
 DOMAIN-SUFFIX,unpkg.com
 DOMAIN-SUFFIX,weather-in-calendar.com
 DOMAIN-SUFFIX,workers.dev
