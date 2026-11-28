@@ -20,9 +20,15 @@ DOMAIN-SUFFIX,dizhensubao.getui.com
 DOMAIN-SUFFIX,tracking-protection.cdn.mozilla.net
 
 # NTP (ntpd connected to these pool IPs directly)
+PROCESS-NAME,ntpd
+DOMAIN-SUFFIX,pool.ntp.org
 IP-CIDR,5.79.108.34/32,no-resolve
 IP-CIDR,84.16.67.12/32,no-resolve
 IP-CIDR,95.111.202.5/32,no-resolve
+# Cloudflare time anycast — 10.2 resolved cn.pool.ntp.org here; was stolen by ProxyIP
+IP-CIDR,162.159.200.1/32,no-resolve
+# Same live A record for cn.pool.ntp.org; hardening, not in the misroute sample
+IP-CIDR,162.159.200.123/32,no-resolve
 
 # Origin
 DOMAIN,origin-a.akamaihd.net

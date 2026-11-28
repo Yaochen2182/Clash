@@ -2,3 +2,13 @@
 
 # derp2e.tailscale.com
 IP-CIDR,192.73.252.134/32,no-resolve
+
+# Moved from ProxyIP: these IPs are in the live 10.2 `tailscale debug derp-map`.
+# Confirmed misrouted to 🚀 节点选择[HK] when process metadata was missing:
+IP-CIDR,192.73.252.65/32,no-resolve
+IP-CIDR,208.111.34.178/32,no-resolve
+# Same ProxyIP ∩ DERP overlap (hardening; current log window usually had process name):
+IP-CIDR,192.73.243.141/32,no-resolve
+IP-CIDR,192.73.243.229/32,no-resolve
+IP-CIDR,172.105.166.103/32,no-resolve
+IP-CIDR,172.105.179.230/32,no-resolve
